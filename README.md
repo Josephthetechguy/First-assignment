@@ -1,2 +1,0 @@
-# Alt-assignment-
-# Alt-assignment-
