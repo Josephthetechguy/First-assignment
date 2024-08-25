@@ -15,11 +15,12 @@ form {
 section{
   display: flex;
   flex-direction: row;
+  background-color:lightgray;
 }
 
 div{
-  background-color:lightgray;
-  flex: 1;
+  background-color:rgb(144, 160, 240)
+  aliceblue;
 }
 
 .leftside {
@@ -30,4 +31,8 @@ div{
 
 .rightside,.text{
   text-align:center;
+}
+ tbody{
+  background-color: rgb(90, 16, 132);
+  color: rgb(112, 197, 239);
 }
